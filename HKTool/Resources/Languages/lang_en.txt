@@ -1,0 +1,46 @@
+HKTool.Error.ModMultiInstance=A second instance of {0} was created by mistake, please check if you have added mod repeatedly(current mod location: {1})
+HKTool.ErrorShow.ModMultiInstance=The mod was loaded repeatedly (current mod location: {0})
+HKTool.Error.NeedLibraryVersion=Requires version of {0} >= {1}
+HKTool.Error.NeedLibrary=Requires dependency {0}
+HKTool.Error.NeedModule=Module {0} not found
+HKTool.Error.NeedModuleEx=Module {0} not found, version {1}
+HKTool.Error.GetModInstaceBeforeLoad=Trying to get an instance of {0} before loading it
+HKTool.Error.TryGetInstanceWithoutInit=Attempting to get an instance of {0} before its initialization is complete 
+HKTool.MissingPreloadObjectException=Preload object not found ("{0}", "{1}")
+HKTool.Menu.ButtonLabel=HKTool Options
+HKTool.Menu.OnlyMainMenu=Please use in the main menu 
+HKTool.Menu.RebuildMenu=Rebuild the menu
+HKTool.Menu.RefreshLanguage=Refresh language
+HKTool.Experimental.Title=Experimental
+HKTool.Experimental.AIBM.Title=Allow initialization before MAPI startup
+HKTool.Experimental.StartWithoutSteam=Allow application not to be launched through Steam
+
+HKTool.Settings.DeveloperMode=Developer mode
+HKTool.Settings.DeveloperMode.Desc=Turn on/off developer mode, it will take effect after restarting the game
+HKTool.Settings.On=On
+HKTool.Settings.Off=Off
+HKTool.Settings.LoadSettings=Reload Settings
+HKTool.Settings.DebugView=Debug View
+HKTool.Settings.DebugView.Desc=Turn on/off Debug View[Home]
+HKTool.Settings.ENMAPI=Emulate the new features of MAPI70
+
+HKTool.Debug.TopTitle={0} ({1}/{2}) Press Tab to switch
+HKTool.Debug.EnableHitBox=Show HitBox
+HKTool.Debug.DisableHitBox=Hide HitBox
+
+HKTool.Debug.EnableDebugDraw=Show Debug Line
+HKTool.Debug.DisableDebugDraw=Hide Debug Line
+
+HKTool.I18n.ShowOrigin=Display the Key and Sheet of Language.Get
+HKTool.Desc.NeverSave=Never save
+
+HKTool.Menu.ULST=Stack Trace Type({0})
+
+HKTool.DebugMenu.Back=Back
+
+HKTool.LogMenu.Title=Log
+HKTool.LogMenu.RLogLabel=Redirect UnityLog to ModLog({0})
+HKTool.LogMenu.MAPILogLevel=MAPI logging output level
+
+HKTool.Menu.Bool.True=True
+HKTool.Menu.Bool.False=False

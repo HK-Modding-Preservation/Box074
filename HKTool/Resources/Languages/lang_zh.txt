@@ -1,0 +1,47 @@
+HKTool.Error.ModMultiInstance=错误的创造了第二个{0}实例，请检查是否重复添加mod(当前Mod位置: {1})
+HKTool.ErrorShow.ModMultiInstance=该mod被重复加载(当前Mod位置: {0})
+HKTool.Error.NeedLibraryVersion=需要{0}的版本>={1}
+HKTool.Error.NeedLibrary=需要{0}
+HKTool.Error.NeedModule=未找到模块{0}
+HKTool.Error.NeedModuleEx=未找到模块{0}，版本{1}
+HKTool.Error.GetModInstaceBeforeLoad=尝试在{0}被加载前获取其实例
+HKTool.Error.TryGetInstanceWithoutInit=尝试在{0}初始化完成前获取其实例
+HKTool.Error.MissingFile=缺少{0}文件
+HKTool.MissingPreloadObjectException=未找到预加载对象("{0}", "{1}")
+HKTool.Menu.ButtonLabel=HKTool 选项
+HKTool.Menu.OnlyMainMenu=请在主菜单中使用
+HKTool.Menu.RebuildMenu=重新构造菜单
+HKTool.Menu.RefreshLanguage=刷新语言
+HKTool.Experimental.Title=实验性功能
+HKTool.Experimental.AIBM.Title=允许在MAPI启动前初始化
+HKTool.Experimental.StartWithoutSteam=允许绕过Steam启动
+
+HKTool.Settings.DeveloperMode=开发者模式
+HKTool.Settings.DeveloperMode.Desc=开启/关闭开发者模式，重启游戏后生效
+HKTool.Settings.On=开启
+HKTool.Settings.Off=关闭
+HKTool.Settings.LoadSettings=重新加载设置
+HKTool.Settings.DebugView=调试视图
+HKTool.Settings.DebugView.Desc=开启/关闭调试视图[Home]
+HKTool.Settings.ENMAPI=模拟MAPI70的新功能
+
+HKTool.Debug.TopTitle={0} ({1}/{2}) Tab键切换
+HKTool.Debug.EnableHitBox=显示碰撞箱
+HKTool.Debug.DisableHitBox=隐藏碰撞箱
+
+HKTool.Debug.EnableDebugDraw=显示Debug Line
+HKTool.Debug.DisableDebugDraw=隐藏Debug Line
+
+HKTool.I18n.ShowOrigin=显示Language.Get的Key和Sheet
+HKTool.Desc.NeverSave=不会被保存
+
+HKTool.Menu.ULST=Unity栈追踪等级({0})
+
+HKTool.DebugMenu.Back=返回
+
+HKTool.LogMenu.Title=日志
+HKTool.LogMenu.RLogLabel=重定向Unity日志输出({0})
+HKTool.LogMenu.MAPILogLevel=MAPI日志输出等级
+
+HKTool.Menu.Bool.True=是
+HKTool.Menu.Bool.False=否
